@@ -1,0 +1,28 @@
+.text-style {
+    font-weight:bold;
+}
+.consult {
+    font-family: 'Acrom';
+    width: 1920px;
+    background-color: #ffffff;
+}
+.consult-conteyner {
+    display: inline-block;
+    width: 1140px;
+    margin: 0, auto;
+}
+.consult-title {
+    width: 488px;
+    font-size: 48px;
+    line-height: 60px;
+}
+.list-consult {
+    list-style: none;
+    width: 488px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.list-consult__item {
+    background: url("../images/consalt/arrow.jpg") left center no-repeat;
+    background-size: contain;
+}
